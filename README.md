@@ -1,2 +1,3 @@
 # JendelaSehat
-Tugas dan mengikuti lomba OLIVIA2022
+Admin Username = administrator
+Admin Password = asdf

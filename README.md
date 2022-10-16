@@ -1,3 +1,3 @@
 # JendelaSehat
-Admin Username = administrator
+Admin Username = administrator <br>
 Admin Password = asdf
